@@ -1,0 +1,25 @@
+{
+  "name": "whm",
+  "version": "1.0.0",
+  "description": "A opensource whm panel",
+  "main": "whm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep2065/whm.git"
+  },
+  "author": "Deepak Khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep2065/whm/issues"
+  },
+  "homepage": "https://github.com/deep2065/whm#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
